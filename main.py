@@ -1,2 +1,1 @@
-print('HELLO')
-
+print('Hello yaptichka!')
